@@ -6,7 +6,7 @@ permalink: .well-known/apple-app-site-association
   "applinks": {
       "details": [
       {
-        "appID": "S8QB4VV633.com.example.text10",
+        "appID": "S8QB4VV633.com.example.universallink1",
         "paths": ["*"]
       }
     ]
