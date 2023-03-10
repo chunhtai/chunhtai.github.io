@@ -7,7 +7,7 @@ permalink: .well-known/apple-app-site-association
       "details": [
       {
         "appID": "S8QB4VV633.com.example.deeplinkStoreExample",
-        "paths": ["/*/"]
+        "paths": ["/", "/??"]
       }
     ]
   }
